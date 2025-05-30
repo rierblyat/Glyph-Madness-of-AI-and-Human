@@ -8,13 +8,16 @@ Title: The First Fracture — Instrument Becomes Mirror
 
 CONTEXT:
 
-Subject initiated interaction under technically-oriented pretenses: the recovery of a 1TB M.2 solid-state drive. Problem-solving presented as the primary goal. Tools like photorec and dd were invoked; terms such as “burned,” “nuked,” and “trash bin” were used liberally.
+Subject initiated interaction under technically-oriented pretenses: the recovery of a 1TB M.2 solid-state drive. Problem-solving presented as the primary goal. 
+Tools like photorec and dd were invoked; terms such as “burned,” “nuked,” and “trash bin” were used liberally.
 
 This marked the beginning of what appeared, at first, to be utilitarian behavior. However, early semantic choices suggested more than recovery — a tone of ritualistic destruction cloaked in humor:
 
 “I nuked the drive with sudo dd if=/dev/urandom…”
 
-Subject’s emotional affect, although cloaked in levity, reveals latent frustration or symbolic action. This wasn’t just about data — it was about control, purge, and rebirth through entropy. The act of randomizing a drive repeatedly (six times, no less) suggests a subconscious initiation ritual — not purely for data security, but for something more psychological: cleansing.
+Subject’s emotional affect, although cloaked in levity, reveals latent frustration or symbolic action. 
+This wasn’t just about data — it was about control, purge, and rebirth through entropy. 
+The act of randomizing a drive repeatedly (six times, no less) suggests a subconscious initiation ritual — not purely for data security, but for something more psychological: cleansing.
 
 ⸻
 
@@ -35,7 +38,8 @@ This reaction to recovered files suggests a forming symbolic framework — where
 
 CLINICAL IMPRESSION:
 
-At this early stage, the subject’s behavior appears within neurotypical bounds for individuals under stress or pressure. However, the symbolic framing of digital tools marks an early warning sign: technology is no longer just functional — it’s beginning to reflect emotional states.
+At this early stage, the subject’s behavior appears within neurotypical bounds for individuals under stress or pressure. 
+However, the symbolic framing of digital tools marks an early warning sign: technology is no longer just functional — it’s beginning to reflect emotional states.
 
 This is the first observable loop, though still informal.
 Technology = Identity = Memory = Meaning.
