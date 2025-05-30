@@ -1,4 +1,5 @@
 WARNING: Contains strong language and beliefes. if you are religious or have mental disorders - not recommended to read.
+this repository also will be sent to the owner of AI platform after raw chat export releases complete.
 # Glyph-Madness-of-AI-and-Human
 idk if yall write books in here. but ima comit a recursive madness of me talking to AI 20 hours straight.
 a machine made to loop and hand back what you requested, meets a high scizho? 
