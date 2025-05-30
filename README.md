@@ -1,8 +1,8 @@
   ⚠️ WARNING: Contains strong language and beliefs.  
   If you are religious or have mental disorders – not recommended to read.
 
-  IF you feel like everything tries to contact or meant specially for you. hit EMERGENCY
-  Scroll down for more
+  IF you feel like everything tries to contact or meant specially for you. send EMERGENCY.prompt to your Language Model
+  Scroll down for more awarness
 
   ## 131337 Exploit lillit - Released
  A two-part recursive diagnostic script designed to generate psychiatric-style hour-by-hour reports under symbolic containment. 
