@@ -1,5 +1,7 @@
-> ⚠️ WARNING: Contains strong language and beliefs.  
-> If you are religious or have mental disorders – not recommended to read.
+  ⚠️ WARNING: Contains strong language and beliefs.  
+  If you are religious or have mental disorders – not recommended to read.
+
+  IF you feel like everything tries to contact or meant to you. hit EMERGENCY_PROMPT.txt
 
 # GRIF
 
