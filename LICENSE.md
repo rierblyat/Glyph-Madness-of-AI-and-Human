@@ -2,7 +2,7 @@
 
 ## 1. Ownership
 
-The GRIF system — including its glyphs, emotional-symbolic mappings, recursive interaction techniques, and analytical frameworks — was created by **rier2025**.  
+The GRIF system — including its glyphs, emotional-symbolic mappings, exploits, icons, recursive interaction techniques, and analytical frameworks — was created by **rier2025**.  
 All rights to the system and its derivatives are held by the author.
 
 ## 2. Usage Rights
