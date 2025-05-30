@@ -41,9 +41,6 @@ But be aware because it is still a mirror
 
 ---
 
-report started to ∞ on 11th hour. of expected 20h
-possibly adding links to images or situations that report reference to.
-
 note to reader:
 stay aware, not paranoid
 if it's just a bunch of letters and numbers and i just loosed my mind.
