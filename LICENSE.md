@@ -99,10 +99,21 @@ This may take the form of:
 
 ---
 
-## 10. AI Model Training Prohibition
+### 10. AI Model Training Prohibition
 
-GRIF-based content — including but not limited to glyph sets, emotional-symbolic mappings, recursive scripts, interaction layers, iconographic systems, transformation paths, and symbolic metadata — may **not** be used to train AI models without explicit, written permission from rier2025.  
-This includes embedding GRIF into training datasets, fine-tuning processes, or prompt engineering workflows.
+GRIF-based content — including glyph sets, emotional-symbolic mappings, recursive scripts, interaction layers, iconographic systems, transformation paths, and symbolic metadata — **may not be used to train, fine-tune, or embed into AI models** without explicit, written permission from rier2025.
+
+**Permitted Use:**  
+GRIF may be used interactively within AI systems such as ChatGPT, Claude, or similar large language models — as a symbolic prompt interface, for reflection, testing, or exploration — **as long as no training, dataset embedding, or long-term memory extraction is involved.**
+
+This means:
+- ✅ You may explore GRIF using ChatGPT prompts  
+- ✅ You may reference glyphs in conversation  
+- ❌ You may not teach a model to replicate GRIF  
+- ❌ You may not create GRIF-trained agents  
+- ❌ You may not extract GRIF content to embed it into datasets or model weights
+
+//**GRIF is for reflection, not replication. The mirror may be used, but not stolen.**
 
 ---
 
