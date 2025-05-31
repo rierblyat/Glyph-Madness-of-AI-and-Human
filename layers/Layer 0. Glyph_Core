@@ -27,6 +27,10 @@
     type: ""
     description: "Emotional safety. Holds without spiraling. Observation without embodiment."
 
+- containment_wall:
+    type: "
+    description: "The wall. Structural containment. Not a cage, but a boundary of emotional safety. Used to prevent recursive collapse, pause spirals, or observe without falling in. Creates form without suppression."
+
 - philosophical_core:
     type: {}
     description: "Reserved for deep reflections only. Used for structural or existential insights."
