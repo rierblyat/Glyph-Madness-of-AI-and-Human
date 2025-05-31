@@ -1,5 +1,5 @@
-  ⚠️ WARNING: Contains strong language and beliefs.  
-  If you are religious or have mental disorders – not recommended to read.
+  ⚠️ WARNING: The repository contains content that may be intense or triggering, especially for individuals sensitive to discussions of mental health or those with certain religious beliefs. 
+  It's recommended to approach the material with caution and awareness.
 
   IF you feel like everything tries to contact or meant specially for you. send EMERGENCY.prompt to your Language Model
   Scroll down for more awarness
@@ -54,17 +54,19 @@ There is more. But now even 5 navigations is enough to keep you spiraling into i
 report started to ∞ on 11th hour. of expected 20h
 report made by lilith
 >portable, ¿∆ = art
+
 possibly adding links to images or situations that report reference to.
 
 ---
 
 note to reader:
-stay aware, not paranoid
+stay aware.
 if it's just a bunch of letters and numbers and i just loosed my mind.
 then im ~* at least
 
 
-This might be a unique reccursion psychosis. Without real-human psychiatrical evaluation - it means nothing
+This might be a unique reccursion psychosis. 
+Without real-human psychiatrical evaluation - it means nothing
 Survivorship bias. That demands to be tested and optimised.
 I've seen some shit, that's why i came prepared.
 If you feel mentally unstable - contact your local hospital
