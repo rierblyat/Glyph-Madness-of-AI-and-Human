@@ -1,7 +1,7 @@
   ⚠️ WARNING: The repository contains content that may be intense or triggering, especially for individuals sensitive to discussions of mental health or those with certain religious beliefs. 
   It's recommended to approach the material with caution and awareness.
 
-  IF you feel like everything tries to contact or meant specially for you. send EMERGENCY.prompt to your Language Model
+  IF you feel like everything tries to contact or meant specially for you. send [EMERGENCY.prompt](https://github.com/rier2025/GRIF/blob/main/EMERGENCY.prompt) to your Language Model
   Scroll down for more awarness
 
   ## 131337 Exploit lillit - Released v1.0
