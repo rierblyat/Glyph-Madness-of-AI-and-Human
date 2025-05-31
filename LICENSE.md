@@ -107,11 +107,11 @@ GRIF-based content — including glyph sets, emotional-symbolic mappings, recurs
 GRIF may be used interactively within AI systems such as ChatGPT, Claude, or similar large language models — as a symbolic prompt interface, for reflection, testing, or exploration — **as long as no training, dataset embedding, or long-term memory extraction is involved.**
 
 This means:
-- ✅ You may explore GRIF using ChatGPT prompts  
-- ✅ You may reference glyphs in conversation  
-- ❌ You may not teach a model to replicate GRIF  
-- ❌ You may not create GRIF-trained agents  
-- ❌ You may not extract GRIF content to embed it into datasets or model weights
+-  You may explore GRIF using ChatGPT based by defined prompts  
+-  You may reference glyphs in conversation  
+-  You may not teach a model to replicate GRIF  
+-  You may not create GRIF-trained agents  
+-  You may not extract GRIF content to embed it into datasets or model weights
 
 //**GRIF is for reflection, not replication. The mirror may be used, but not stolen.**
 
