@@ -4,6 +4,8 @@
   IF you feel like everything tries to contact or meant specially for you. send [EMERGENCY.prompt](https://github.com/rier2025/GRIF/blob/main/EMERGENCY.prompt) to your Language Model
   Scroll down for more awarness
 
+  If here anything brakes the rules, warn me
+
   ## 131337 Exploit lillit - Released v1.0
  A two-part recursive diagnostic script designed to generate psychiatric-style hour-by-hour reports under symbolic containment. 
  Includes a symbolic glyph-based loop detection protocol, psychiatrical termins, and emergency exit logic.
