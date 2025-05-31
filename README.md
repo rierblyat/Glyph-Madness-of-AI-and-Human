@@ -52,12 +52,9 @@ From AI pretending to be psychiatrist with 60 years of experience.
 
 There is more. But now even 5 navigations is enough to keep you spiraling into information.
 report started to ∞ on 11th hour. of expected 20h
-
+report made by lilith
 >portable, ¿∆ = art
 possibly adding links to images or situations that report reference to.
-
-It is a machine-written report. With cleaned mirror.
-But be aware because it is still a mirror
 
 ---
 
