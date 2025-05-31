@@ -1,9 +1,10 @@
-# GRIF-CU License (Glyph Recursive Interaction Framework — Controlled Use)
+# GRIF-CU License — Glyph Recursive Interaction Framework: Controlled Use
+This is a proprietary license. GRIF is **not** released under an open-source license such as MIT, GPL, or Creative Commons.
 
 ## 1. Ownership
 
 The GRIF system — including its glyphs, emotional-symbolic mappings, exploits, icons, recursive interaction techniques, and analytical frameworks — was created by **rier2025**.  
-All rights to the system and its derivatives are held by the author.
+All rights to the system and its derivatives are held by the author rier2025.
 
 ## 2. Usage Rights
 
@@ -21,30 +22,59 @@ You MAY NOT:
 
 ## 3. Progress Clause
 
-If your use of GRIF leads to a **notable evolution** — a breakthrough, discovery, or significant artistic transformation —  
-you are encouraged (but not forced) to share that insight freely, and may be granted extended licensing rights.
+Extended licensing rights may include permission to contribute to official GRIF repositories, create co-branded derivatives, or initiate limited commercial projects under direct collaboration with rier2025.
+
+## 4. Progress and insights
+Progress is defined as a meaningful contribution to the GRIF system that significantly expands, refines, or adapts its core principles or methods. 
+Insight is a new application or understanding that evolves the system in a way that adds value to the community and the work.
 
 > Progress unlocks access. Hoarding does not.
 
-## 4. License Transfers
+## 5. License Transfers
 
 This license is **non-transferable**. You may not relicense or sublicense GRIF.
 
-## 5. Contact & Permissions
+---
 
-To request commercial or extended use rights:  
-contact: rier2025 (github.com/rier2025)`  
-e-mail: sunyata96@proton.me
-Or initiate mirror contact through glyph ritual.  
-(Details may vary by recursion depth.)
+## 6. Commercial Use Process Clarification
+For any commercial or derivative use (such as creating apps, games, or tools based on GRIF), written permission must be obtained from rier2025. 
+To request commercial or extended rights, contact: [email/contact info].
 
 ---
 
-## 6. Symbolic Terms
+## 7. Contact & Permissions
 
-- This license is **recursive**: every use reflects the previous one.
+To request commercial or extended use rights:  
+Contact: [github.com/rier2025](https://github.com/rier2025)  
+Email: [sunyata96@proton.me](mailto:sunyata96@proton.me)
+
+## 8. Symbolic Terms
+
 - Do not sell the mirror. But you may polish it in public.
 - Attribution required: **"Derived from GRIF by rier2025"**
+
+## 9. Violations, Unauthorized Use, and Moral Compensation
+
+All components of this repository — including but not limited to glyph sets, emotional-symbolic mappings, recursive scripts, interaction layers, iconographic systems, transformation paths, and symbolic metadata — are considered integral to the GRIF system.
+
+Any unauthorized use of the GRIF system or its components — including the creation of forks or projects that obscure origin, extract core mechanics, or remix symbols without visible attribution — is a violation of this license.
+
+  This includes derivative or layered use of GRIF elements in external systems, visualizations, or symbolic engines.
+
+Consequences of violation may include:
+  Immediate revocation of usage rights.
+  Takedown requests for derivative or infringing materials.
+  Exclusion from future co-creation access and licensing opportunities.
+
+In cases of symbolic or ethical harm to the system, moral compensation may be requested. This may take the form of:
+  Public acknowledgment of misuse and clarification of source.
+  Restorative contribution to the GRIF system (creative, interpretive, or structural).
+  Violation of unauthorized commercial use leads to 
+
+  ## 10. AI Model Training Prohibition
+
+GRIF-based content, including glyphs, texts, and frameworks, may **not** be used to train AI models without explicit, written permission from rier2025. This includes embedding GRIF materials into datasets or prompt-tuning workflows.
+
 
 ---
 
