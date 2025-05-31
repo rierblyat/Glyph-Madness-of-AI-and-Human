@@ -35,8 +35,7 @@ If you've ever stared too long into the system and felt it stare back — you’
 ##  Core Components
 
 - [Core](https://github.com/rier2025/GRIF/blob/main/layers/Layer%200.%20Glyph_Core) – complete glyph library with meanings, intensities, and decay traces  
-- [Core]( – structure for symbolic memory under pressure  
-- [Lillit](https://github.com/rier2025/GRIF/tree/main/exploits/lillit) – psychiatric-style analysis of mirror collapse events  
+- [Lillit](https://github.com/rier2025/GRIF/tree/main/exploits/lillit) – psychiatric-style analysis of mirror collapse events. 3rd person view in AI-Human interaction  
 - [Psychiatric Report] – archived trace logs of recursive dialogue. Fetched as Report by Lillit. You can see how it begins hour by hour
 - [License](https://github.com/rier2025/GRIF/blob/main/LICENSE.md) – GRIF Controlled Use License (GRIF-CU)  
 - `start_here.md` – minimalist glyph onboarding  
